@@ -1,0 +1,1 @@
+# setup-log-alalytics-agent-on-databricks
